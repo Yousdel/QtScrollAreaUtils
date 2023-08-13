@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <widget class="QScrollArea" name="scrollArea">
+     <property name="widgetResizable">
+      <bool>true</bool>
+     </property>
+     <widget class="QWidget" name="scrollAreaWidgetContents">
+      <property name="geometry">
+       <rect>
+        <x>0</x>
+        <y>-500</y>
+        <width>557</width>
+        <height>738</height>
+       </rect>
+      </property>
+      <layout class="QGridLayout" name="gridLayout">
+       <item row="0" column="0">
+        <widget class="QLabel" name="label">
+         <property name="text">
+          <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;fsh&lt;/p&gt;&lt;p&gt;gf&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;gj&lt;/p&gt;&lt;p&gt;djd&lt;/p&gt;&lt;p&gt;j&lt;/p&gt;&lt;p&gt;k&lt;/p&gt;&lt;p&gt;ufkuy&lt;/p&gt;&lt;p&gt;lk&lt;/p&gt;&lt;p&gt;iut&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;d&lt;/p&gt;&lt;p&gt;kuyk&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;ru&lt;/p&gt;&lt;p&gt;,&lt;/p&gt;&lt;p&gt;yrkl&lt;/p&gt;&lt;p&gt;u&lt;/p&gt;&lt;p&gt;il&lt;/p&gt;&lt;p&gt;il&lt;/p&gt;&lt;p&gt;ri&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;p&gt;lury&lt;/p&gt;&lt;p&gt;luy&lt;/p&gt;&lt;p&gt;r&lt;/p&gt;&lt;p&gt;ylubfjkbhkhfkjfbahafhafui hghghga auhgaguihroghreouiahiueghliureheaoihgliuhgiurelhaeiuglerilehgalheirhuighu&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+         </property>
+        </widget>
+       </item>
+      </layout>
+     </widget>
+    </widget>
+   </item>
+   <item>
+    <widget class="QPushButton" name="pushButton">
+     <property name="text">
+      <string>move slider to max</string>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
